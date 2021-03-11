@@ -1,0 +1,68 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link{
+    color: green;
+    /* font-weight: bold; */
+    padding-right: 30px;
+}
+.pill-button{
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius:10px ;
+    padding: 16px 22px;
+    box-shadow: 0 2px 8px 0 rgba(48, 44, 255, 0.1);
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.icon-holder{
+    width: 60px;
+    height: 60px;
+    /* background-color: rgba(0, 128, 0, 0.616); */
+    background-color: green;
+    border-radius: 10px;
+}
+.primary-button{
+    background-color: transparent;
+    border: 1px solid green;
+    color: green;
+    border-radius:10px ;
+    padding: 16px 22px;
+    box-shadow: 0 2px 8px 0 rgba(48, 44, 255, 0.1);
+    text-align: center;
+}
+
+.inverse-primary-button{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius:10px ;
+    padding: 16px 22px;
+    box-shadow: 0 2px 8px 0 rgba(48, 44, 255, 0.1);
+    text-align: center;
+}
+
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.support{
+    color: green;
+}
+
+.header{
+    font-weight: bold;
+}
+
+.clients img{
+    height: 30px;
+}
+
+.footer{
+    background-color:rgba(0, 128, 0, 0.616);;
+}
